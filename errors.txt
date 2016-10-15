@@ -1,0 +1,177 @@
+Compiling test for .NETCoreApp,Version=v1.0
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    Expr
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'a
+ to
+    PropertyInfo
+involves an indeterminate type based on information prior to this program point. Runtime type tests are not allowed on some types. Further type annotations are needed.
+    'TypeBuilder'
+is not compatible with type
+    'Type'
+    'TypeBuilder'
+is not compatible with type
+    'Type'
+Exiting - too many errors
+/usr/local/share/dotnet/dotnet compile-fsc @test/obj/Debug/netcoreapp1.0/dotnet-compile.rsp returned Exit Code 1
+test/ProvidedTypes.fsi(487,32): error FS0039: The type 'ResolveEventArgs' is not defined
+test/ProvidedTypes.fsi(488,31): error FS0039: The type 'ResolveEventArgs' is not defined
+test/ProvidedTypes.fs(51,55): error FS0039: The field, constructor or member 'Assembly' is not defined
+test/ProvidedTypes.fs(53,55): error FS0039: The field, constructor or member 'Assembly' is not defined
+test/ProvidedTypes.fs(58,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(60,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(62,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(64,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(69,25): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(71,26): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(73,24): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(75,23): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(77,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(79,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(81,29): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(83,27): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(85,29): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(87,27): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(89,30): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(91,28): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(93,30): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(95,28): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(97,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(99,17): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(106,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(107,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(107,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(110,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(111,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(111,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(114,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(115,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(115,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(118,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(119,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(119,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(122,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(123,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(123,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(126,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(127,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(127,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(130,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(131,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(131,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(135,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(136,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(136,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(140,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(141,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(141,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(144,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(145,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(145,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(148,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(149,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(149,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(152,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(153,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(153,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(156,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(157,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(157,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(160,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(161,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(161,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(164,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(165,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(165,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(169,22): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(170,13): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(170,13): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(282,66): error FS0039: The field, constructor or member 'PreComputeUnionConstructorInfo' is not defined
+test/ProvidedTypes.fs(284,71): error FS0039: The field, constructor or member 'PreComputeRecordConstructorInfo' is not defined
+test/ProvidedTypes.fs(286,50): error FS0039: The field, constructor or member 'PreComputeUnionTagMemberInfo' is not defined
+test/ProvidedTypes.fs(289,19): error FS0008: This runtime coercion or type test from type
+test/ProvidedTypes.fs(426,17): error FS0039: The field, constructor or member 'IsGenericType' is not defined
+test/ProvidedTypes.fs(428,51): error FS0039: The field, constructor or member 'GetUnionCases' is not defined
+test/ProvidedTypes.fs(429,25): error FS0752: The operator 'expr.[idx]' has been used on an object of indeterminate type based on information prior to this program point. Consider adding further type constraints
+test/ProvidedTypes.fs(430,25): error FS0752: The operator 'expr.[idx]' has been used on an object of indeterminate type based on information prior to this program point. Consider adding further type constraints
+test/ProvidedTypes.fs(431,20): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(551,38): error FS0039: The field, constructor or member 'IsGenericType' is not defined
+test/ProvidedTypes.fs(626,29): error FS0039: The field, constructor or member 'Assembly' is not defined
+test/ProvidedTypes.fs(631,55): error FS0039: The field, constructor or member 'Assembly' is not defined
+test/ProvidedTypes.fs(632,30): error FS0072: Lookup on object of indeterminate type based on information prior to this program point. A type annotation may be needed prior to this program point to constrain the type of the object. This may allow the lookup to be resolved.
+test/ProvidedTypes.fs(667,57): error FS0001: The type 'TypeBuilder' is not compatible with the type 'Type'
+test/ProvidedTypes.fs(667,57): error FS0193: Type constraint mismatch. The type
+test/ProvidedTypes.fs(672,16): error FS0039: The field, constructor or member 'CreateType' is not defined
+test/ProvidedTypes.fs(789,22): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(789,50): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(791,28): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(791,52): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(840,17): error FS0041: A unique overload for method 'Emit' could not be determined based on type information prior to this program point. A type annotation may be needed. Candidates: ILGenerator.Emit(opcode: OpCode, arg: byte) : unit, ILGenerator.Emit(opcode: OpCode, arg: float) : unit, ILGenerator.Emit(opcode: OpCode, arg: float32) : unit, ILGenerator.Emit(opcode: OpCode, arg: int) : unit, ILGenerator.Emit(opcode: OpCode, arg: int16) : unit, ILGenerator.Emit(opcode: OpCode, arg: int64) : unit, ILGenerator.Emit(opcode: OpCode, arg: sbyte) : unit, ILGenerator.Emit(opcode: OpCode, cls: Type) : unit, ILGenerator.Emit(opcode: OpCode, con: ConstructorInfo) : unit, ILGenerator.Emit(opcode: OpCode, field: FieldInfo) : unit, ILGenerator.Emit(opcode: OpCode, label: Label) : unit, ILGenerator.Emit(opcode: OpCode, labels: Label []) : unit, ILGenerator.Emit(opcode: OpCode, local: LocalBuilder) : unit, ILGenerator.Emit(opcode: OpCode, meth: MethodInfo) : unit, ILGenerator.Emit(opcode: OpCode, signature: SignatureHelper) : unit, ILGenerator.Emit(opcode: OpCode, str: string) : unit
+test/ProvidedTypes.fs(891,97): error FS0039: The field, constructor or member 'GetEnumUnderlyingType' is not defined
+test/ProvidedTypes.fs(895,35): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(905,35): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(916,35): error FS0039: The field, constructor or member 'IsValueType' is not defined
+test/ProvidedTypes.fs(928,41): error FS0039: The field, constructor or member 'IsGenericType' is not defined
+test/ProvidedTypes.fs(934,27): error FS0193: Type constraint mismatch. The type
+test/ProvidedTypes.fs(943,29): error FS0039: The field, constructor or member 'IsValueType' is not defined
